@@ -1,2 +1,5 @@
-# intelligence_research
-A list of seminal research on generalizable and universal principles of intelligence
+# Research on Generalizable and Universal Principles Of Intelligence
+
+Universal Intelligence:
+A Definition of Machine Intelligence
+[https://arxiv.org/pdf/0712.3329.pdf](https://arxiv.org/pdf/0712.3329.pdf)
