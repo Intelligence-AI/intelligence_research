@@ -1,4 +1,4 @@
-# Research on Universal Principles Of Intelligence, Systems Design, Data, Code, and Business
+# Research on Intelligence, Systems, Design, Data, Code, and Business, In The Pursuit Of Understanding Generalizable and Universal Principles of Intelligence
 
 
 ## [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf)
