@@ -1,4 +1,4 @@
-# Research on Generalizable and Universal Principles Of Intelligence
+# Research on Universal Principles Of Intelligence & Systems Design
 
 
 ## [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/pdf/0712.3329.pdf)
@@ -25,6 +25,7 @@ Ten years into the revival of deep networks and artificial intelligence, we prop
 
 ## [A free energy principle for the brain](https://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf)
 *Karl Friston, James Kilner, Lee Harrison*
+
 By formulating Helmholtz’s ideas about perception, in terms of modern-day theories, one arrives at a model of perceptual inference
 and learning that can explain a remarkable range of neurobiological facts: using constructs from statistical physics, the problems of inferring the causes of sensory input and learning the causal structure of their generation can be resolved using exactly the same principles.
 Furthermore, inference and learning can proceed in a biologically plausible fashion. The ensuing scheme rests on Empirical Bayes and
@@ -37,3 +38,11 @@ act on the system and an arbitrary distribution encoded by its configuration. Th
 perception respectively and lead to an adaptive exchange with the environment that is characteristic of biological systems. This treatment
 assumes that the system’s state and structure encode an implicit and probabilistic model of the environment. We will look at the models
 entailed by the brain and how minimisation of its free energy can explain its dynamics and structure.
+
+## [Collective dynamics of ‘small-world’ networks](https://static.squarespace.com/static/5436e695e4b07f1e91b30155/t/54452561e4b08d9eb2170909/1413817697054/collective-dynamics-of-small-world-networks.pdf)
+
+*Duncan J. Watts & Steven H. Strogatz*
+Networks of coupled dynamical systems have been used to model biological oscillators1–4, Josephson junction arrays5,6, excitable media, neural networks, spatial games, genetic control networks and many other self-organizing systems. Ordinarily, the connection topology is assumed to be either completely
+regular or completely random. But many biological, technological and social networks lie somewhere between these two extremes. Here we explore simple models of networks that can be tuned through this middle ground: regular networks ‘rewired’ to introduce increasing amounts of disorder. We find that these systems can be highly clustered, like regular lattices, yet have small characteristic path lengths, like random graphs. We call them
+‘small-world’ networks, by analogy with the small-world phenomenon (popularly known as six degrees of separation). The neural network of the worm Caenorhabditis elegans, the power grid of the western United States, and the collaboration graph of film actors are shown to be small-world networks.
+Models of dynamical systems with small-world coupling display enhanced signal-propagation speed, computational power, and synchronizability. In particular, infectious diseases spread more easily in small-world networks than in regular lattices.
