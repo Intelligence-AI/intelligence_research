@@ -22,3 +22,18 @@ To make deliberate progress towards more intelligent and more human-like artific
 
 Ten years into the revival of deep networks and artificial intelligence, we propose a theoretical framework that sheds light on understanding deep networks within a bigger picture of Intelligence in general. We introduce two fundamental principles, Parsimony and Self-consistency, that address two fundamental questions regarding Intelligence: what to learn and how to learn, respectively. We believe the two principles are the cornerstones for the emergence of Intelligence, artificial or natural. While these two principles have rich classical roots, we argue that they can be stated anew in entirely measurable and computable ways. More specifically, the two principles lead to an effective and efficient computational framework, compressive closed-loop transcription, that unifies and explains the evolution of modern deep networks and many artificial intelligence practices. While we mainly use modeling of visual data as an example, we believe the two principles will unify understanding of broad families of autonomous intelligent systems and provide a framework for understanding the brain.
 
+
+## [A free energy principle for the brain](https://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf)
+*Karl Friston, James Kilner, Lee Harrison*
+By formulating Helmholtz’s ideas about perception, in terms of modern-day theories, one arrives at a model of perceptual inference
+and learning that can explain a remarkable range of neurobiological facts: using constructs from statistical physics, the problems of inferring the causes of sensory input and learning the causal structure of their generation can be resolved using exactly the same principles.
+Furthermore, inference and learning can proceed in a biologically plausible fashion. The ensuing scheme rests on Empirical Bayes and
+hierarchical models of how sensory input is caused. The use of hierarchical models enables the brain to construct prior expectations in a
+dynamic and context-sensitive fashion. This scheme provides a principled way to understand many aspects of cortical organisation and
+responses.
+In this paper, we show these perceptual processes are just one aspect of emergent behaviours of systems that conform to a free energy
+principle. The free energy considered here measures the difference between the probability distribution of environmental quantities that
+act on the system and an arbitrary distribution encoded by its configuration. The system can minimise free energy by changing its configuration to affect the way it samples the environment or change the distribution it encodes. These changes correspond to action and
+perception respectively and lead to an adaptive exchange with the environment that is characteristic of biological systems. This treatment
+assumes that the system’s state and structure encode an implicit and probabilistic model of the environment. We will look at the models
+entailed by the brain and how minimisation of its free energy can explain its dynamics and structure.
